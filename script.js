@@ -1,8 +1,8 @@
-var s = "Kulgawczuki";
+let s;
 
-while (s != "mypassword") {
-    s = prompt("Panie! Wprowadź Pan hasło!");
-    if (s == "mypassword") {
+while (s != "Kulgawczuki") {
+    s = prompt("Wprowadź hasło.");
+    if (s == "Kulgawczuki") {
         window.location.href = "index.html"; //page to redirect if password entered is correct
 
     }
