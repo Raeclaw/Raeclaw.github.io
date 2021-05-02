@@ -3,7 +3,7 @@ img.hero {
 }
 p {
     font-family: sans-serif;
-    font-size: larger;
+    font-size: 150%; 
     color: brown;
     text-align: center;
 }
