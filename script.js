@@ -1,4 +1,4 @@
-let s;
+var s = "";
 
 while (s != "Kulgawczuki") {
     s = prompt("Wprowadź hasło.");
