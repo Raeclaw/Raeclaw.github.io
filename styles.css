@@ -28,7 +28,7 @@ h1 {
     padding: 14px 16px;
     text-decoration: none;
   }
-  p.current {
+  a.current {
     color: #196d11;
   }
   
