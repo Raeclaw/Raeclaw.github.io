@@ -27,6 +27,14 @@ h1 {
     padding: 14px 16px;
     text-decoration: none;
   }
+  .topnav a.current {
+    float: left;
+    display: block;
+    color: #196d11;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
   
   /* Links - change color on hover */
   .topnav a:hover {
