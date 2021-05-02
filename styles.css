@@ -1,5 +1,8 @@
 img.hero {
     width: 100%;
+    border-radius: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 h1 {
     font-size: 150%; 
