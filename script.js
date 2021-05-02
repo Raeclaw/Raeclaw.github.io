@@ -1,9 +1,9 @@
 var s = "Kulgawczuki";
 
 while (s != "mypassword") {
-    s = prompt("please enter your password");
+    s = prompt("Panie! Wprowadź Pan hasło!");
     if (s == "mypassword") {
-        window.location.href = "correct.html"; //page to redirect if password entered is correct
+        window.location.href = "index.html"; //page to redirect if password entered is correct
 
     }
     else {
