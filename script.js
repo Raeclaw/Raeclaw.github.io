@@ -3,7 +3,7 @@ let s;
 while (s != "Kulgawczuki") {
     s = prompt("Wprowadź hasło.");
     if (s == "Kulgawczuki") {
-        window.location.href = "index.html"; //page to redirect if password entered is correct
+        window.location.href = "home.html"; //page to redirect if password entered is correct
 
     }
     else {
