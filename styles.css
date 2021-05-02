@@ -22,7 +22,7 @@ h1 {
   .topnav a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #8a1010;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -34,7 +34,7 @@ h1 {
     color: black;
   } 
    /* Create three equal columns that floats next to each other */
-.column {
+  .column {
     float: left;
     width: 33.33%;
   }
