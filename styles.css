@@ -1,11 +1,14 @@
-img.hero {
+div.hero {
     width: 100%;
+}
+img.hero {
     border-radius: 25px;
     padding-left: 20px;
     padding-right: 20px;
 }
 h1 {
     font-size: 150%; 
+    font-family: lucida handwriting;
     color: brown;
     text-align: center;
 }
